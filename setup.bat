@@ -1,7 +1,6 @@
 @echo off
 setlocal EnableExtensions EnableDelayedExpansion
 
-
 echo.
 echo ******************************************************************
 echo ** Welcome to the Easy Proxy Configurator                       **
