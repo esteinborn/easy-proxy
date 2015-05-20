@@ -1,7 +1,7 @@
 # Easy Proxy
 > **The proxy switcher for Windows you've always needed but didn't have the time to develop.**
 
-This script installs a collection of proxy configuration files for 7 different programs: NPM, Git, SSH, Bower, CURL, WGET, and Ruby. I have amassed this list through many years of fighting proxies. It is my gift to you, the Proxied developer. Keep fighting the good fight!
+This script installs a collection of proxy configuration files for 7 different programs: NPM, Git, SSH, Bower, CURL, WGET, and Ruby (1.93). I have amassed this list through many years of fighting proxies. It is my gift to you, the Proxied developer. Keep fighting the good fight!
 
 This application covers proxy configurations for the following applications:
 

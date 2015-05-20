@@ -27,3 +27,10 @@ if exist %HOMEDRIVE%%HOMEPATH%\.ssh\config (
 if exist c:\ruby193\bin\gem.bat (
   copy backup\ruby.txt c:\ruby193\bin\gem.bat /y
 )
+
+echo Backup configuration files restored!
+
+echo.
+echo Press any key to exit...
+@pause >nul
+@exit
